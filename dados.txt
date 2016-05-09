@@ -1,0 +1,4 @@
+animal: boi
+profissao: professor
+filmes: piratas do caribe
+objetos: bola, caneta, pincel
